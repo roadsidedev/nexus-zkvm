@@ -91,6 +91,14 @@ fn main() {
 }
 ```
 
+
+## 2B.   Install CMAKE [Modified version] 
+
+```
+sudo apt install cmake
+```
+
+
 ### 3. Run your program
 
 ```bash
@@ -119,12 +127,10 @@ Finally, load and verify the proof:
 
 ```shell
 cargo nexus verify
-```
 
-## Learn More
 
-Run `cargo nexus --help` to see all the available commands.
 
-Also check out the documentation at [docs.nexus.xyz](https://docs.nexus.xyz), or join our [Telegram](https://t.me/nexus_zkvm) chat to discuss!
 
-Nexus is committed to open-source. All of our code is dual licensed under MIT and Apache licenses. We encourage and appreciate contributions.
+SAVE ```NEXUS-PROOF``` SOMEWHERE IN DIRECTORY
+![Uploading image.png…]()
+
