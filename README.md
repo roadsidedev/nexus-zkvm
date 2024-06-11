@@ -34,6 +34,11 @@ If you're interested in our implementation of folding schemes, check the [`nexus
 ```
 sudo apt install cmake
 ```
+## Install Build Essential 
+```
+sudo apt update
+sudo apt install build-essential
+```
 
 
 ### 1. Install the Nexus zkVM
