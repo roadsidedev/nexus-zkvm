@@ -29,6 +29,13 @@ If you're interested in our implementation of folding schemes, check the [`nexus
 
 ## Quick Start
 
+## i.   Install CMAKE [Modified version] 
+
+```
+sudo apt install cmake
+```
+
+
 ### 1. Install the Nexus zkVM
 
 First, install Rust: https://www.rust-lang.org/tools/install.
@@ -98,13 +105,6 @@ fn main() {
     let result = fib(n);
     assert_eq!(result, 13);
 }
-```
-
-
-## 2B.   Install CMAKE [Modified version] 
-
-```
-sudo apt install cmake
 ```
 
 
