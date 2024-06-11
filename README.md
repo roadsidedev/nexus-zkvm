@@ -90,6 +90,13 @@ This will create a new Rust project directory with the following structure:
     └── main.rs
 ```
 
+### Move to Directory 
+
+```
+cd nexus-project
+cd src
+nano main.rs
+```
 As an example, you can change the content of `./src/main.rs` to:
 
 ```rust
