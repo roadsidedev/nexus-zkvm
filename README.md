@@ -32,6 +32,10 @@ If you're interested in our implementation of folding schemes, check the [`nexus
 ### 1. Install the Nexus zkVM
 
 First, install Rust: https://www.rust-lang.org/tools/install.
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+```
 
 With the RISC-V target:
 
